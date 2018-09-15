@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <ID_SkroutzAnalytics>
+            <active>true</active>
+            <codePool>local</codePool>
+        </ID_SkroutzAnalytics>
+    </modules>
+</config>
